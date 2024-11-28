@@ -166,7 +166,7 @@ const Footer = () => {
         </div>
         <div className="text-center mt-6">
           <p className="text-sm font-light">
-            © 2024 <span className="font-semibold">Naman Sehra</span>. All rights reserved.
+            © 2024 <span className="font-semibold">Harshit Goyal </span>. All rights reserved.
           </p>
         </div>
       </footer>
