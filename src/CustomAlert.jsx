@@ -14,9 +14,9 @@ const CustomAlert = ({ message, onClose }) => {
   );
 };
 
-CustomAlert.propTypes = {
+/*CustomAlert.propTypes = {
   message: PropTypes.string.isRequired,
   onClose: PropTypes.func.isRequired,
-};
+};*/
 
 export default CustomAlert;
