@@ -88,24 +88,24 @@ const Footer = () => {
             <div className="col-md-6">
               <h5 className="text-2xl font-bold mb-4">Contact Information</h5>
               <p className="mb-2">
-                <strong>Name:</strong> Naman Sehra
+                <strong>Name:</strong> Harshit Goyal
               </p>
               <p className="mb-2">
-                <a href="mailto:namansehra0edu@gmail.com" className="hover:underline text-light">
+                <a href="mailto:harshitgoyal0810@gmail.com" className="hover:underline text-light">
                   <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
-                  namansehra0edu@gmail.com
+                  harshitgoyal0810@gmail.com
                 </a>
               </p>
               <p className="mb-2">
-                <a href="https://www.linkedin.com/in/naman-sehra-6390a92b7" className="hover:underline text-light">
+                <a href="https://www.linkedin.com/in/harshit-goyal-b2aaa6214" className="hover:underline text-light">
                   <FontAwesomeIcon icon={faLinkedin} className="mr-2" />
-                  Naman Sehra
+                  Harshit Goyal
                 </a>
               </p>
               <p className="mb-2">
-                <a href="https://github.com/DARKenergem" className="hover:underline text-light">
+                <a href="https://github.com/Harshu0810" className="hover:underline text-light">
                   <FontAwesomeIcon icon={faGithub} className="mr-2" />
-                  Naman Sehra
+                  Harshit Goyal
                 </a>
               </p>
             </div>
