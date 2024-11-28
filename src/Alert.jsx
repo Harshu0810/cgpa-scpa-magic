@@ -49,4 +49,4 @@ const Alert = ({ show, handleClose }) => {
   );
 };
 
-export default Alert;
+
